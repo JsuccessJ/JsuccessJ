@@ -2,7 +2,7 @@
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=white&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=white&logoColor=white"/>
           
 **JsuccessJ/JsuccessJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
