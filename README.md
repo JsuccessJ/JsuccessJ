@@ -1,8 +1,9 @@
 
 
 ![Logo](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=JS%20LAB&section=header&reversal=false&textBg=false&fontColor=CCA63D&fontSize=100&fontAlign=50&animation=fadeIn&descAlign=50&descAlignY=50)
+
 <div align=center>
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 </div>
 ![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJsuccessJ&count_bg=%23848279&title_bg=%23D75353&icon=coffeescript.svg&icon_color=%23DBC414&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
