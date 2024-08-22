@@ -9,10 +9,11 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP" style="display: inline-block; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" style="display: inline-block; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF0000?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF7F00?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/NLP-FFFF00?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP" style="display: inline-block;">
 </div>
+
 
 
 <div align="center">
