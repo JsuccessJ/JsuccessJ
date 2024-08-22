@@ -2,7 +2,7 @@
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--[]는 제외하고 사용하고, 그 안에것을 잘 채우면 된다.-->
-<img src="https://img.shields.io/badge/[사진속 노란색 밑줄친 부분에 들어갈 text]-[배지배경색]?
+<img src="https://img.shields.io/badge/Pytorch-123456?
           style=plastic
           &logo=#EE4C2C
           &logoColor=000000"/>
