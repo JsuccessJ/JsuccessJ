@@ -1,5 +1,5 @@
 ## Hi there 👋
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 Here are some ideas to get you started:
 <!--
 **JsuccessJ/JsuccessJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
