@@ -1,7 +1,7 @@
 ![Logo](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=JS%20LAB&section=header&reversal=false&textBg=false&fontColor=CCA63D&fontSize=100&fontAlign=50&animation=fadeIn&descAlign=50&descAlignY=50)
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
-![pytorch]("https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=white&logoColor=white")
+![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=white&logoColor=white)
           
 **JsuccessJ/JsuccessJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
