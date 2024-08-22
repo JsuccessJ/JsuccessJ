@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Pytorch-111111?
           style=plastic
           &logo=#EE4C2C
-          &logoColor=000000"/>
+          &logoColor=white"/>
           
 <!--
 **JsuccessJ/JsuccessJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
