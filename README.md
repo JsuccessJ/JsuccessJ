@@ -2,9 +2,9 @@
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--[]는 제외하고 사용하고, 그 안에것을 잘 채우면 된다.-->
-<img src="https://img.shields.io/badge/Pytorch-111111?
+<img src="https://img.shields.io/badge/Pytorch-#EE4C2C?
           style=plastic
-          &logo=#EE4C2C
+          &logo=white
           &logoColor=white"/>
           
 <!--
