@@ -4,7 +4,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 ![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-          
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJsuccessJ&count_bg=%23848279&title_bg=%23D75353&icon=coffeescript.svg&icon_color=%23DBC414&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 **JsuccessJ/JsuccessJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
