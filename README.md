@@ -1,6 +1,12 @@
 ![Logo](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=JS%20LAB&section=header&reversal=false&textBg=false&fontColor=CCA63D&fontSize=100&fontAlign=50&animation=fadeIn&descAlign=50&descAlignY=50)
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-#EE4C2C
+
+<!--[]는 제외하고 사용하고, 그 안에것을 잘 채우면 된다.-->
+<img src="https://img.shields.io/badge/[사진속 노란색 밑줄친 부분에 들어갈 text]-[배지배경색]?
+          style=plastic
+          &logo=#EE4C2C
+          &logoColor=000000"/>
+          
 <!--
 **JsuccessJ/JsuccessJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
