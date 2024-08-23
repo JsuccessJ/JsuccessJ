@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=JS%20LAB&section=header&reversal=false&textBg=false&fontColor=CCA63D&fontSize=100&fontAlign=50&animation=fadeIn&descAlign=50&descAlignY=50" alt="Logo">
 </div>
 
-<div style="display: flex; justify-content: center; width: 100%;">
+<div style="text-align: center; width: 100%;">
   <img src="https://github.com/user-attachments/assets/945785fc-6925-4b88-b828-a87ef4ea06dd" alt="giphy" style="width: 100%; max-width: 1200px; height: auto;">
 </div>
 
 <br>
 
-<div style="text-align: center; width: 100%;">
+<div align="center">
   <h2 style="background-color:#4CAF50; color:white; padding:10px; border-radius:10px; display:inline-block;">
     🌟 Programming Language 🌟
   </h2>
