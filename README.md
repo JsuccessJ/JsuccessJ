@@ -3,7 +3,7 @@
 </div>
 
 <div style="display: flex; justify-content: center; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/fba5b7b9-a2dd-422c-a7b7-8f6daf05742b" alt="harry" style="width: 100%; max-width: 1200px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/945785fc-6925-4b88-b828-a87ef4ea06dd" alt="giphy" style="width: 100%; max-width: 1200px; height: auto;">
 </div>
 
 <br>
