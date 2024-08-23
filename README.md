@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=JS%20LAB&section=header&reversal=false&textBg=false&fontColor=CCA63D&fontSize=100&fontAlign=50&animation=fadeIn&descAlign=50&descAlignY=50" alt="Logo">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JS%20LAB&section=header&reversal=false&textBg=false&fontColor=CCA63D&fontSize=150&fontAlign=50&animation=fadeIn&descAlign=50&descAlignY=50" alt="Logo">
 </div>
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/945785fc-6925-4b88-b828-a87ef4ea06dd" alt="giphy" style="width: 100%; max-width: 1200px; height: auto;">
