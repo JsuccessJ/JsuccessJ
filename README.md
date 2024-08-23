@@ -2,6 +2,38 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JS%20LAB&section=header&reversal=false&textBg=false&fontColor=CCA63D&fontSize=150&fontAlign=50&animation=fadeIn&descAlign=50&descAlignY=50" alt="Logo">
 </div>
+<div align="center" style="position: relative; width: 100%; height: 200px; background-color: black; overflow: hidden;">
+  <h1 style="font-size: 80px; font-family: Arial, sans-serif; color: #FFD700; text-shadow: 0 0 10px #FFD700, 0 0 20px #FFA500, 0 0 30px #FF4500; animation: glow 1.5s infinite alternate;">
+    JS LAB
+  </h1>
+  <div style="position: absolute; top: -50px; left: -50px; width: 200px; height: 200px; background: rgba(173, 216, 230, 0.2); border-radius: 50%; animation: float 6s infinite ease-in-out;">
+  </div>
+  <div style="position: absolute; top: -50px; right: -50px; width: 200px; height: 200px; background: rgba(173, 216, 230, 0.2); border-radius: 50%; animation: float 6s infinite ease-in-out reverse;">
+  </div>
+</div>
+
+<style>
+@keyframes glow {
+  from {
+    text-shadow: 0 0 10px #FFD700, 0 0 20px #FFA500, 0 0 30px #FF4500;
+  }
+  to {
+    text-shadow: 0 0 20px #FFFF00, 0 0 30px #FFD700, 0 0 40px #FF8C00;
+  }
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(20px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+</style>
 
 
 
