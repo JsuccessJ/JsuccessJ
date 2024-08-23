@@ -9,28 +9,6 @@
   </h1>
 </div>
 
-<style>
-@keyframes glow {
-  from {
-    text-shadow: 0 0 10px #FFD700, 0 0 20px #FFA500, 0 0 30px #FF4500;
-  }
-  to {
-    text-shadow: 0 0 20px #FFFF00, 0 0 30px #FFD700, 0 0 40px #FF8C00;
-  }
-}
-
-@keyframes float {
-  0% {
-    transform: translateY(0px);
-  }
-  50% {
-    transform: translateY(20px);
-  }
-  100% {
-    transform: translateY(0px);
-  }
-}
-</style>
 
 
 
