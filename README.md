@@ -46,7 +46,18 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-FF0000?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/Deep%20Learning-FF7F00?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/NLP-FFFF00?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP" style="display: inline-block; margin-top: 10px;">
+  <br>
+  <img src="https://img.shields.io/badge/Transformer-006400?style=for-the-badge&logo=transformer&logoColor=white" alt="Transformer" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/LLM-228B22?style=for-the-badge&logo=llm&logoColor=white" alt="LLM" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/LLM_Watermark-32CD32?style=for-the-badge&logo=llm-watermark&logoColor=white" alt="LLM Watermark" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/NER-3CB371?style=for-the-badge&logo=ner&logoColor=white" alt="NER" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Translation-66CDAA?style=for-the-badge&logo=translation&logoColor=white" alt="Translation" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Summarization-8FBC8F?style=for-the-badge&logo=summarization&logoColor=white" alt="Summarization" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/RAG-98FB98?style=for-the-badge&logo=rag&logoColor=white" alt="RAG" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/sLLM-90EE90?style=for-the-badge&logo=sllm&logoColor=white" alt="sLLM" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/VectorDB-ADFF2F?style=for-the-badge&logo=vectordb&logoColor=white" alt="VectorDB" style="display: inline-block; margin-top: 10px;">
 </div>
+
 
 <br>
 
