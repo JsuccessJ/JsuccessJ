@@ -8,7 +8,7 @@
 
 <br>
 
-<div align="center">
+<div style="text-align: center; width: 100%;">
   <h2 style="background-color:#4CAF50; color:white; padding:10px; border-radius:10px; display:inline-block;">
     🌟 Programming Language 🌟
   </h2>
