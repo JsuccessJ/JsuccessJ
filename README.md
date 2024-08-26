@@ -1,18 +1,10 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JS%20LAB&section=header&reversal=false&textBg=false&fontColor=CCA63D&fontSize=150&fontAlign=50&animation=fadeIn&descAlign=50&descAlignY=50" alt="Logo">
 </div>
 
-
-
-
-
-
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/945785fc-6925-4b88-b828-a87ef4ea06dd" alt="giphy" style="width: 100%; max-width: 1200px; height: auto;">
 </div>
-
 
 <br>
 
@@ -62,12 +54,22 @@
   <img src="https://img.shields.io/badge/VectorDB-ADFF2F?style=for-the-badge&logo=vectordb&logoColor=white" alt="VectorDB" style="display: inline-block; margin-top: 10px;">
 </div>
 
-
 <br>
 
 <div align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJsuccessJ&count_bg=%23848279&title_bg=%23D75353&icon=coffeescript.svg&icon_color=%23DBC414&title=hits&edge_flat=false" alt="Hits">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h2 style="background-color:#4682B4; color:white; padding:10px; border-radius:10px; display:inline-block;">
+    📊 Baekjoon Online Judge Stats 📊
+  </h2>
+  <a href="https://solved.ac/jsuccessj/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsuccessj" alt="Baekjoon Stats" style="margin-top: 10px;">
   </a>
 </div>
 
