@@ -62,10 +62,15 @@
   </a>
 </div>
 
-### Statistics
-<div style="display: flex; justify-content: space-between;">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=JsuccessJ&show_icons=true&theme=holi" style="width: 49%; height: 200px;" />
-  <a href="https://solved.ac/jsuccessj/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsuccessj" alt="Baekjoon Stats" style="width: 49%; height: 200px;" />
-  </a>
+<div align="center">
+  <h2>📊 Statistics 📊</h2>
+
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JsuccessJ&show_icons=true&theme=holi" style="width: 48%; height: auto; max-height: 200px; margin-right: 10px;" />
+    <a href="https://solved.ac/jsuccessj/">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsuccessj" alt="Baekjoon Stats" style="width: 48%; height: auto; max-height: 200px;" />
+    </a>
+  </div>
 </div>
+
+
