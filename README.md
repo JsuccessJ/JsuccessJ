@@ -62,19 +62,10 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <h2 style="background-color:#4682B4; color:white; padding:10px; border-radius:10px; display:inline-block;">
-    📊 Baekjoon Online Judge Stats 📊
-  </h2>
-  <a href="https://solved.ac/jsuccessj/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsuccessj" alt="Baekjoon Stats" style="margin-top: 10px;">
-  </a>
-</div>
-
 ### Statistics
 <div style="display: flex; justify-content: space-between;">
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=JsuccessJ&show_icons=true&theme=holi" style="width: 49%; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsuccessJ&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" style="width: 49%; height: 200px;" />
+  <a href="https://solved.ac/jsuccessj/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsuccessj" alt="Baekjoon Stats" style="width: 49%; height: 200px;" />
+  </a>
 </div>
