@@ -29,12 +29,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch" style="display: inline-block; margin-top: 10px;">
   
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&logoWidth=50" alt="LangChain" style="display: inline-block; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&logoWidth=40" alt="LangChain" style="display: inline-block; margin-top: 10px;">
 </div>
-
-
-
-
 
 
 <br>
