@@ -30,6 +30,22 @@
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch" style="display: inline-block; margin-top: 10px;">
 </div>
 
+
+<div align="center">
+  <h2 style="background-color:#FF5722; color:white; padding:10px; border-radius:10px; display:inline-block;">
+    🔧 Framework 🔧
+  </h2>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch" style="display: inline-block; margin-top: 10px;">
+  
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" style="display: inline-block; margin-top: 10px;">
+</div>
+
+
+
+
 <br>
 
 <div align="center">
