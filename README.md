@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/RAG-98FB98?style=for-the-badge&logo=rag&logoColor=white" alt="RAG" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/sLLM-90EE90?style=for-the-badge&logo=sllm&logoColor=white" alt="sLLM" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/VectorDB-ADFF2F?style=for-the-badge&logo=vectordb&logoColor=white" alt="VectorDB" style="display: inline-block; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/On--Device%20AI-696969?style=for-the-badge&logo=on-device-ai&logoColor=white" alt="On-Device AI" style="display: inline-block; margin-top: 10px;">
 </div>
 
 <br>
