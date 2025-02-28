@@ -69,6 +69,8 @@
 </div>
 <br>
 
+<br>
+
 <div align="center">
   <h2 style="background-color:#673AB7; color:white; padding:10px; border-radius:10px; display:inline-block;">
     📚 Publication 📚
@@ -76,20 +78,21 @@
 </div>
 
 <div align="center">
-  <ul style="text-align: left; display: inline-block;">
-    <li>
-      <strong>Considering Length Diversity in Retrieval-Augmented Summarization</strong> <br>
-      <em>NAACL 2025</em> <br>
+  <div style="text-align: left; display: inline-block;">
+    <p>
+      <em>Considering Length Diversity in Retrieval-Augmented Summarization</em> <br>
+      <strong>NAACL 2025</strong> <br>
       Juseon-Do, Jaesung Hwang, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura
-    </li>
+    </p>
     <br>
-    <li>
-      <strong>Korean dialect-standard language translation using special token in KoBART</strong> <br>
-      <em>Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2024</em> <br>
+    <p>
+      <em>Korean dialect-standard language translation using special token in KoBART</em> <br>
+      <strong>Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2024</strong> <br>
       JaeSung Hwang, Heecheol Yang
-    </li>
-  </ul>
+    </p>
+  </div>
 </div>
+
 
 <div align="center">
   <h2>📊 Statistics 📊</h2>
