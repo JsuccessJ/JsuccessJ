@@ -73,7 +73,7 @@
 
 <div align="center">
   <h2 style="background-color:#673AB7; color:white; padding:10px; border-radius:10px; display:inline-block;">
-    📚 Publication 📚
+    📜 Publication 📜
   </h2>
 </div>
 
