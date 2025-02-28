@@ -69,10 +69,6 @@
 </div>
 <br>
 
-<br>
-
-<br>
-
 <div align="center">
   <h2 style="background-color:#673AB7; color:white; padding:10px; border-radius:10px; display:inline-block;">
     📚 Publication 📚
@@ -88,7 +84,7 @@
     </li>
     <br>
     <li>
-      <strong><em><Korean dialect-standard language translation using special token in KoBART</em></strong> <br>
+      <strong><em>Korean dialect-standard language translation using special token in KoBART</em></strong> <br>
       Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2024 <br>
       Jaesung Hwang, Heecheol Yang
     </li>
