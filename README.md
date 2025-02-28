@@ -60,13 +60,14 @@
   <img src="https://img.shields.io/badge/On--Device%20AI-696969?style=for-the-badge&logo=on-device-ai&logoColor=white" alt="On-Device AI" style="display: inline-block; margin-top: 10px;">
 </div>
 
+<!--
 <br>
-
 <div align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJsuccessJ&count_bg=%23848279&title_bg=%23D75353&icon=coffeescript.svg&icon_color=%23DBC414&title=hits&edge_flat=false" alt="Hits">
   </a>
 </div>
+-->
 <br>
 
 <div align="center">
@@ -79,7 +80,7 @@
   <ol>
     <li>
       <strong><em>Considering Length Diversity in Retrieval-Augmented Summarization</em></strong> <br>
-      NAACL 2025 <br>
+      NAACL, 2025 <br>
       Juseon-Do, Jaesung Hwang, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura
     </li>
     <br>
