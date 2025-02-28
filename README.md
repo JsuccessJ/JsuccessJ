@@ -56,7 +56,7 @@
 
 
   <br>
-  <img src="https://img.shields.io/badge/Lightweight DL-ADFF2F?style=for-the-badge&logo=vectordb&logoColor=white" alt="Lightweight DL" style="display: inline-block; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Lightweight DL-ADFF2F?style=for-the-badge&logo=Lightweight DL&logoColor=white" alt="Lightweight DL" style="display: inline-block; margin-top: 10px;">
   <img src="https://img.shields.io/badge/On--Device%20AI-696969?style=for-the-badge&logo=on-device-ai&logoColor=white" alt="On-Device AI" style="display: inline-block; margin-top: 10px;">
 </div>
 
