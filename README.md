@@ -10,7 +10,7 @@
 
 <div align="center">
   <h2 style="background-color:#4CAF50; color:white; padding:10px; border-radius:10px; display:inline-block;">
-    🌟 Programming Language 🌟
+    🔠 Programming Language 🔠
   </h2>
 </div>
 
