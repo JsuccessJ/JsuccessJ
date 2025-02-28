@@ -46,6 +46,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF0000?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/Deep%20Learning-FF7F00?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/DataScience-006400?style=for-the-badge&logo=DataScience&logoColor=white" alt="DataScience" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
     <br>
   
   <img src="https://img.shields.io/badge/LLM-FFFF00?style=for-the-badge&logo=LLM&logoColor=white" alt="LLM" style="display: inline-block; margin-top: 10px;">
