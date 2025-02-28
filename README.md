@@ -82,15 +82,15 @@
 <div style="max-width: 800px; margin: 0 auto; text-align: left;">
   <ol>
     <li>
-      <em>Considering Length Diversity in Retrieval-Augmented Summarization</em> <br>
-      <strong>NAACL 2025</strong> <br>
+      <strong><em>Considering Length Diversity in Retrieval-Augmented Summarization</em></strong> <br>
+      NAACL 2025 <br>
       Juseon-Do, Jaesung Hwang, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura
     </li>
     <br>
     <li>
-      <em>Korean dialect-standard language translation using special token in KoBART</em> <br>
-      <strong>Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2024</strong> <br>
-      JaeSung Hwang, Heecheol Yang
+      <strong><em><Korean dialect-standard language translation using special token in KoBART</em></strong> <br>
+      Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2024 <br>
+      Jaesung Hwang, Heecheol Yang
     </li>
   </ol>
 </div>
