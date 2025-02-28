@@ -48,13 +48,12 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-FF7F00?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
     <br>
   
-  <img src="https://img.shields.io/badge/LLM-FFFF00?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="LLM" style="display: inline-block; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/sLLM-006400?style=for-the-badge&logo=transformer&logoColor=white" alt="sLLM" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/MoE-228B22?style=for-the-badge&logo=llm&logoColor=white" alt="MoE" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/RecSys-32CD32?style=for-the-badge&logo=llm-watermark&logoColor=white" alt="RecSys" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Financial Ai-3CB371?style=for-the-badge&logo=ner&logoColor=white" alt="Financial Ai" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Translation-66CDAA?style=for-the-badge&logo=translation&logoColor=white" alt="RecSys" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Summarization-8FBC8F?style=for-the-badge&logo=summarization&logoColor=white" alt="Financial Ai" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/LLM-FFFF00?style=for-the-badge&logo=LLM&logoColor=white" alt="LLM" style="display: inline-block; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/sLLM-006400?style=for-the-badge&logo=sLLM&logoColor=white" alt="sLLM" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/MoE-228B22?style=for-the-badge&logo=MoE&logoColor=white" alt="MoE" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/RecSys-32CD32?style=for-the-badge&logo=RecSys&logoColor=white" alt="RecSys" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Financial Ai-3CB371?style=for-the-badge&logo=Financial Ai&logoColor=white" alt="Financial Ai" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+
 
   <br>
   <img src="https://img.shields.io/badge/Lightweight DL-ADFF2F?style=for-the-badge&logo=vectordb&logoColor=white" alt="Lightweight DL" style="display: inline-block; margin-top: 10px;">
