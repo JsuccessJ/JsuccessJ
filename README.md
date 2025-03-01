@@ -87,7 +87,7 @@
     <br>
     <li>
       <strong><em>Korean dialect-standard language translation using special token in KoBART</em></strong> <br>
-      Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2024 <br>
+      KICS, 2024 <br>
       Jaesung Hwang, Heecheol Yang
     </li>
   </ol>
