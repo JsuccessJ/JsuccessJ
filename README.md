@@ -81,17 +81,19 @@
   <ol>
     <li>
       <strong><em>Considering Length Diversity in Retrieval-Augmented Summarization</em></strong> <br>
-      NAACL, 2025 <br>
-      Juseon-Do, Jaesung Hwang, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura
+      Juseon-Do*, Jaesung Hwang*, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura (* : equal contribution) <br>
+      2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) <br>
+      Albuquerque, New Mexico, USA, April 29-May 4, 2025(To appear)
     </li>
     <br>
     <li>
       <strong><em>Korean dialect-standard language translation using special token in KoBART</em></strong> <br>
-      KICS, 2024 <br>
-      Jaesung Hwang, Heecheol Yang
+      Jaesung Hwang, Heecheol Yang <br>
+      한국통신학회 (KICS), 2024
     </li>
   </ol>
 </div>
+
 
 
 <!--
