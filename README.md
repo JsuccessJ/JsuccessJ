@@ -84,11 +84,12 @@
       <a href="https://arxiv.org/abs/2503.09249"><strong>[Link]</strong></a></strong> <br>
       Juseon-Do*, Jaesung Hwang*, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura (* : equal contribution) <br>
       2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL Findings) <br>
-      Albuquerque, New Mexico, USA, April 29-May 4, 2025(To appear)
+      Albuquerque, New Mexico, USA, April 29-May 4, 2025
     </li>
     <br>
     <li>
-      <strong><em>Korean dialect-standard language translation using special token in KoBART</em></strong> <br>
+      <strong><em>Korean dialect-standard language translation using special token in KoBART</em>
+      <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737538"><strong>[Link]</strong></a></strong> <br>
       Jaesung Hwang, Heecheol Yang <br>
       한국통신학회 (KICS), 2024
     </li>
