@@ -80,7 +80,7 @@
 <div style="max-width: 800px; margin: 0 auto; text-align: left;">
   <ol>
     <li>
-      <strong><em>Considering Length Diversity in Retrieval-Augmented Summarization</em></strong> <br>
+      <strong><em>Considering Length Diversity in Retrieval-Augmented Summarization</em>**[Link](https://arxiv.org/abs/2503.09249)**</strong> <br>
       Juseon-Do*, Jaesung Hwang*, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura (* : equal contribution) <br>
       2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL Findings) <br>
       Albuquerque, New Mexico, USA, April 29-May 4, 2025(To appear)
