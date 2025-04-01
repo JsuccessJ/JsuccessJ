@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JS%20LAB&section=header&reversal=false&textBg=false&fontColor=CCA63D&fontSize=150&fontAlign=50&animation=fadeIn&descAlign=50&descAlignY=50" alt="Logo">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0000FF,100:800080&text=JS%20LAB&section=header&reversal=false&textBg=true&fontColor=FFFFFF&fontSize=90&fontAlign=50&fontAlignY=50&animation=scaleIn">
 </div>
 
 <div align="center">
