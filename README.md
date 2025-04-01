@@ -1,3 +1,6 @@
+<div style="background-color: #E0F7FA; padding: 30px; border-radius: 10px;">
+
+<!-- 기존 README 내용 여기에 복사 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0000FF,100:800080&text=JS%20LAB&section=header&reversal=false&textBg=true&fontColor=FFFFFF&fontSize=90&fontAlign=50&fontAlignY=50&animation=scaleIn">
 </div>
@@ -110,4 +113,10 @@
   </div>
 </div>
 -->
+
+</div>
+
+
+
+
 
