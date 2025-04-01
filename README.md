@@ -3,8 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/945785fc-6925-4b88-b828-a87ef4ea06dd" alt="giphy" style="width: 100%; max-width: 1200px; height: auto;">
+  <img 
+    src="https://github.com/user-attachments/assets/945785fc-6925-4b88-b828-a87ef4ea06dd" 
+    alt="giphy" 
+    style="width: 90%; max-width: 1400px; height: auto; border: 5px solid #4CAF50; border-radius: 15px;">
 </div>
+
 
 <br>
 
