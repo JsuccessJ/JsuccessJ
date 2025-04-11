@@ -53,11 +53,8 @@
   <img src="https://img.shields.io/badge/sLLM-006400?style=for-the-badge&logo=sLLM&logoColor=white" alt="sLLM" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/MoE-228B22?style=for-the-badge&logo=MoE&logoColor=white" alt="MoE" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/RecSys-32CD32?style=for-the-badge&logo=RecSys&logoColor=white" alt="RecSys" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Financial Ai-3CB371?style=for-the-badge&logo=Financial Ai&logoColor=white" alt="Financial Ai" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-
-
-  <br>
-  <img src="https://img.shields.io/badge/Lightweight DL-ADFF2F?style=for-the-badge&logo=Lightweight DL&logoColor=white" alt="Lightweight DL" style="display: inline-block; margin-top: 10px;">
+<!--   <img src="https://img.shields.io/badge/Financial Ai-3CB371?style=for-the-badge&logo=Financial Ai&logoColor=white" alt="Financial Ai" style="display: inline-block; margin-right: 10px; margin-top: 10px;"> -->
+<!--   <img src="https://img.shields.io/badge/Lightweight DL-ADFF2F?style=for-the-badge&logo=Lightweight DL&logoColor=white" alt="Lightweight DL" style="display: inline-block; margin-top: 10px;"> -->
   <img src="https://img.shields.io/badge/On--Device%20AI-696969?style=for-the-badge&logo=on-device-ai&logoColor=white" alt="On-Device AI" style="display: inline-block; margin-top: 10px;">
 </div>
 
