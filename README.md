@@ -93,10 +93,8 @@
 
 <div  align="center"; style="max-width: 800px; margin: 0 auto; text-align: left;">
   <ol>
-    <li>
       <strong><em>Jaesung World</em>
       <a href="https://jsuccessj.github.io/"><strong>[Link]</strong></a></strong> <br>
-    </li>
   </ol>
 </div>
 
