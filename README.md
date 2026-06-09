@@ -44,18 +44,17 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF0000?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF7F00?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/DataScience-006400?style=for-the-badge&logo=DataScience&logoColor=white" alt="DataScience" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Machine%20Learning-32CD32?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Deep%20Learning-32CD32?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/DataScience-32CD32?style=for-the-badge&logo=DataScience&logoColor=white" alt="DataScience" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
     <br>
   
   <img src="https://img.shields.io/badge/LLM-FFFF00?style=for-the-badge&logo=LLM&logoColor=white" alt="LLM" style="display: inline-block; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/sLLM-006400?style=for-the-badge&logo=sLLM&logoColor=white" alt="sLLM" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/MoE-228B22?style=for-the-badge&logo=MoE&logoColor=white" alt="MoE" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/RecSys-32CD32?style=for-the-badge&logo=RecSys&logoColor=white" alt="RecSys" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/News%20Recsys-3CB371?style=for-the-badge&logoColor=white" alt="News Recsys" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/On--Device%20AI-696969?style=for-the-badge&logo=on-device-ai&logoColor=white" alt="On-Device AI" style="display: inline-block; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Lightweight%20DL-ADFF2F?style=for-the-badge&logoColor=white" alt="Lightweight DL" style="display: inline-block; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/VLM-FFFF00?style=for-the-badge&logo=VLM&logoColor=white" alt="VLM" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/RecSys-FFFF00?style=for-the-badge&logo=RecSys&logoColor=white" alt="RecSys" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/3D Vision-FFFF00?style=for-the-badge&logo=3D Vision&logoColor=white" alt="3D Vision" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Fashioin AI-FFFF00?style=for-the-badge&logoColor=white" alt="Fashioin AI" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Physical AI-FFFF00?style=for-the-badge&logo=Physical AI&logoColor=white" alt="Physical AI" style="display: inline-block; margin-top: 10px;">
 </div>
 
 <br>
