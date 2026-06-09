@@ -51,10 +51,10 @@
   
   <img src="https://img.shields.io/badge/LLM-FFFF00?style=for-the-badge&logo=LLM&logoColor=white" alt="LLM" style="display: inline-block; margin-top: 10px;">
   <img src="https://img.shields.io/badge/VLM-FFFF00?style=for-the-badge&logo=VLM&logoColor=white" alt="VLM" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/RecSys-FFFF00?style=for-the-badge&logo=RecSys&logoColor=white" alt="RecSys" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/RecSys-FFFF00?style=for-the-badge&logoColor=white" alt="RecSys" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/3D Vision-FFFF00?style=for-the-badge&logoColor=white" alt="3D Vision" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/Fashioin AI-FFFF00?style=for-the-badge&logoColor=white" alt="Fashioin AI" style="display: inline-block; margin-right: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Physical AI-FFFF00?style=for-the-badge&logo=Physical AI&logoColor=white" alt="Physical AI" style="display: inline-block; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Physical AI-FFFF00?style=for-the-badge&logoColor=white" alt="Physical AI" style="display: inline-block; margin-top: 10px;">
 </div>
 
 <br>
