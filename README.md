@@ -91,7 +91,7 @@
   </h2>
 </div>
 
-<div style="max-width: 800px; margin: 0 auto; text-align: left; align="center">
+<div  align=center; style="max-width: 800px; margin: 0 auto; text-align: left;>
   <ol>
     <li>
       <strong><em>Jaesung World</em>
