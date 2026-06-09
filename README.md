@@ -58,17 +58,9 @@
   <img src="https://img.shields.io/badge/Lightweight%20DL-ADFF2F?style=for-the-badge&logoColor=white" alt="Lightweight DL" style="display: inline-block; margin-top: 10px;">
 </div>
 
-<!--
-<br>
-<div align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJsuccessJ&count_bg=%23848279&title_bg=%23D75353&icon=coffeescript.svg&icon_color=%23DBC414&title=hits&edge_flat=false" alt="Hits">
-  </a>
-</div>
--->
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <h2 style="background-color:#673AB7; color:white; padding:10px; border-radius:10px; display:inline-block;">
     📜 Publication 📜
   </h2>
@@ -91,8 +83,22 @@
       한국통신학회 (KICS), 2024
     </li>
   </ol>
+</div> -->
+
+<div align="center">
+  <h2 style="background-color:#673AB7; color:white; padding:10px; border-radius:10px; display:inline-block;">
+    📜 Personal Blog 📜
+  </h2>
 </div>
 
+<div style="max-width: 800px; margin: 0 auto; text-align: left;">
+  <ol>
+    <li>
+      <strong><em>Jaesung</em>
+      <a href="https://jsuccessj.github.io/"><strong>[Link]</strong></a></strong> <br>
+    </li>
+  </ol>
+</div>
 
 
 <!--
