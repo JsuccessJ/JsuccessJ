@@ -93,7 +93,7 @@
 <div  align="center"; style="max-width: 800px; margin: 0 auto; text-align: left;">
   <ol>
       <strong><em>Jaesung World</em>
-      <a href="https://jsuccessj.github.io/"><strong>[Link]</strong></a></strong> <br>
+      <a href="https://jsuccessj.github.io/" target="_blank"><strong>[Link]</strong></a></strong> <br>
   </ol>
 </div>
 
